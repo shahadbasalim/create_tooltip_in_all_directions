@@ -48,7 +48,7 @@ button:hover {
 button:hover span {
     opacity: 1;
 }
-/* [data-position="buttom"] span {
+[data-position="buttom"] span {
     top: auto;
     bottom: -60px;
 }
@@ -56,4 +56,4 @@ button:hover span {
     bottom: auto;
     top: -20px;
     border-color:  transparent transparent #333  transparent;
-} */
+}
